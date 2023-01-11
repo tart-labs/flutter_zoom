@@ -4,5 +4,7 @@
  flutter sdk used :- 3.4.4 stable realese
  
  gradle version :- 7.1.2
+
+ flutter pub run flutter_zoom:unzip_zoom
  
  For ios you need to run on real device because i didn't configure simulator code yet 
